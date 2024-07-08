@@ -1,5 +1,5 @@
 # Examples in Heat Transfer 
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/examples-in-heat-transfer)
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/examples-in-heat-transfer&file=START_HERE.mlx)
 
 This repository shows examples of using [MATLAB](https://www.mathworks.com/products/matlab.html)®, [Symbolic Math Toolbox](https://www.mathworks.com/products/symbolic.html)™, and [Partial Differential Equation Toolbox](https://www.mathworks.com/products/pde.html)™ for solving canonical problems in Heat Transfer.
 
