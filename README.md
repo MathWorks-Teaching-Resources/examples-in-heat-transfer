@@ -20,7 +20,7 @@ Requires [MATLAB](https://www.mathworks.com/products/matlab.html), [Symbolic Mat
 
 ## Analytically Solving 2D Steady\-State Heat Equation on Thin, Rectangular Plate
 
-[Open live script locally](Separation_of_Variables/Separation_Of_Variables_Rectangle.mlx)
+[Open live script locally](./Separation_of_Variables/Separation_Of_Variables_Rectangle.mlx)
 
 
 Requires [MATLAB](https://www.mathworks.com/products/matlab.html), [Symbolic Math Toolbox](http://%28https//www.mathworks.com/products/symbolic.html), and [Partial Differential Equation Toolbox](https://www.mathworks.com/products/pde.html).
