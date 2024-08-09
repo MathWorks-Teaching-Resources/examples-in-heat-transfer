@@ -107,7 +107,7 @@ Requires [MATLAB](https://www.mathworks.com/products/matlab.html), and [Symbolic
 -  Visualization of Fourier modes and embedding  
 -  Interactive controls to choose material properties and solution parameters  
 
-! [Overview figure of solving transient heat equation](_figures/fig_Transient_Heat_Equation.png)
+![Overview figure of solving transient heat equation](_figures/fig_Transient_Heat_Equation.png)
 
 
 ## Heat Transfer and Energy Balance in 1D and 2D using Finite Difference Methods and PDE Toolbox
