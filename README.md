@@ -133,7 +133,7 @@ Requires [MATLAB](https://www.mathworks.com/products/matlab.html), [Symbolic Mat
 
 Requires [MATLAB](https://www.mathworks.com/products/matlab.html), [Symbolic Math Toolbox](http://www.mathworks.com/products/symbolic.html), and [Partial Differential Equation Toolbox](https://www.mathworks.com/products/pde.html)
 
--  Square domain with mix od Dirichlet and Neumann boundary conditions 
+-  Square domain with mix of Dirichlet and Neumann boundary conditions 
 -  Finite element solution with PDE Toolbox 
 -  Finite difference solution developed from scratch with three ways to manage and implement the Finite Difference methods 
 -  1) tables for NODE lookup and storing A and b matrices  
